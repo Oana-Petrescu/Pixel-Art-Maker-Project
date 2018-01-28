@@ -1,2 +1,2 @@
 # Pixel-Art-Maker-Project
-Final Project FEWD
+Final Project FNDC
